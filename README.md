@@ -18,5 +18,5 @@
 15. check
 16. [Скриншот 1.16](screenshots/image_1.16.jpg)
 17. [Скриншот 1.17](screenshots/image_1.17.jpg)
-18. [.teamcity](https://github.com/chkgmpalace/example-teamcity/tree/master/.teamcity)
-19. [GIT REPO](https://github.com/chkgmpalace/example-teamcity)
+18. [.teamcity](https://github.com/Nano-prototip/-Teamcity-/tree/master/.teamcity)
+19. [GIT REPO](https://github.com/Nano-prototip/-Teamcity-)
