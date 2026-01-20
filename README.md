@@ -14,7 +14,7 @@
 11. check
 12. check
 13. [Скриншот 1.13](screenshots/image_1.13.jpg)
-14. [pull request](https://github.com/chkgmpalace/example-teamcity/pull/1)
+14. [pull request](https://github.com/Nano-prototip/-Teamcity-/pulls)
 15. check
 16. [Скриншот 1.16](screenshots/image_1.16.jpg)
 17. [Скриншот 1.17](screenshots/image_1.17.jpg)
